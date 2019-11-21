@@ -1,6 +1,8 @@
 # jogo-da-velha-python
 Avaliação 1 disciplina de Inteligência artificial 2019/2
 
+__**`EXECUTE CADA APLICAÇÃO SEPARADAMENTE`**__
+
 
 **Exe1:** Implemente um programa que insira valores em uma lista encadeada. Considere que os valores a serem inseridos estão inicialmente armazenados em uma matriz.
 
