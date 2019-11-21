@@ -22,5 +22,7 @@ nó;
 - identificar quem foi o vencedor;
 - Identificar o caminho que levou a uma dada situação de fim de jogo;
 
-**Exe5:** Adicionar a cada nó o peso da heurística apresentada em aula (diferença entre alinhamentos da peça do jogador 1 e jogador 2); Percorrer a árvore escolhendo a jogada com base no valor da heurística para o jogador 1
+**Exe5:** 
+- Adicionar a cada nó o peso da heurística apresentada em aula (diferença entre alinhamentos da peça do jogador 1 e jogador 2); 
+- Percorrer a árvore escolhendo a jogada com base no valor da heurística para o jogador 1
 e entrada via teclado para o jogador 2;
